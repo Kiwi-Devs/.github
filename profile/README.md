@@ -2,7 +2,7 @@
 ![Kiwi Information](../assets/information.png)
 
 👋 Heya, welcome to the kiwi bot development group; Home of the kiwi bot. 
-This is where we store our repositories that we use in out project, 
+This is where we store our repositories that we use in our project, 
 including open source repositories (which follows LGPL v3.)
 
 This is currently the home of:
